@@ -21,7 +21,7 @@ As a future system engineer i like to apply all the knowledge that i learned thr
 
 ### :chart_with_upwards_trend: My stats
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=fva062001&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fva062001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=fva062001&show_icons=true&hide_border=true&&count_private=true&theme=radical&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fva062001&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :symbols: Known Languages and Frameworks
 
