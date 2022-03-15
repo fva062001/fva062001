@@ -43,3 +43,5 @@ As a future system engineer i like to apply all the knowledge that i learned thr
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white)
+![Git](https://img.shields.io/badge/git-F1502F.svg?style=for-the-badge&logo=Git&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-3c873a.svg?style=for-the-badge&logo=Node.JS&logoColor=white)
