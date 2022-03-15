@@ -1,4 +1,4 @@
-# Hi there, I'm **Fernando Valerio** 👋
+# Hi there, I'm _Fernando Valerio_ 👋
 ## Glad to see you here! 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fva062001.470048238)
 ## About me
@@ -25,7 +25,7 @@ As a future system engineer i like to apply all the knowledge that i learned thr
 
 ### :symbols: Known Languages and Frameworks
 
-**Advanced Level**
+*Advanced Level*
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -34,7 +34,7 @@ As a future system engineer i like to apply all the knowledge that i learned thr
 ![CSS](https://img.shields.io/badge/CSS-0000FF.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
 
-**Intermediate Level**
+*Intermediate Level*
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
