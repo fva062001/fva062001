@@ -6,7 +6,7 @@ I am a system engineering student kinda bored of just printing "Hello World".
 
 As a future system engineer i like to apply all the knowledge that i learned throughout my entire college career on funny stuff like my personal website.
 
-[![Website](https://img.shields.io/badge/Personal_Website-cade16?style=flat-square&logo=GoogleChrome&logoColor=black)](https://fvwebsite.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-cade16?style=flat-square&logo=GoogleChrome&logoColor=black)](https://fvwebsite.netlify.app/)
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/f_va06/?hl=es-la)
