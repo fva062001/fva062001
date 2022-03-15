@@ -1,4 +1,4 @@
-# Hi there, I'm _Fernando Valerio_ 👋
+# Hey, I'm _Fernando Valerio_ 👋
 ## Glad to see you here! 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fva062001.470048238)
 ## About me
