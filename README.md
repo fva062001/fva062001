@@ -12,7 +12,7 @@ As a future system engineer i like to apply all the knowledge that i learned thr
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/f_va06/?hl=es-la)
 [![Discord](https://img.shields.io/badge/Tyr%235344-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-arturo-valerio-del-valle-2a1614230/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](fernandoarturo06@gmail.com)
+[![Gmail](https://img.shields.io/badge/fernandoarturo06@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](fernandoarturo06@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/fernando.valeriodelvalle)
 ## Current Projects
 
