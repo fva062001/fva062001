@@ -4,7 +4,7 @@
 ## About me
 I am a systems engineering student kinda bored of just printing "Hello World".
 
-As a future systems engineer i like to apply all the knowledge that I learned throughout my entire college career on funny stuff like my personal website.
+As a future systems engineer i would like to apply all the knowledge that I learned throughout my entire college career on funny stuff like my personal website.
 
 [![Website](https://img.shields.io/badge/Website-cade16?style=flat-square&logo=GoogleChrome&logoColor=black)](https://fvwebsite.netlify.app/)
 
