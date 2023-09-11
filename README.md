@@ -12,6 +12,9 @@ As a future systems engineer i would like to apply all the knowledge that I lear
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-arturo-valerio-del-valle-2a1614230/)
 [![Gmail](https://img.shields.io/badge/fernandoarturo06@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](fernandoarturo06@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/fernando.valeriodelvalle)
+
+## Currently Learning
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643b4074e2725773748e86be?variant=dark&roadmaps=devops%2Cfrontend)](https://roadmap.sh)
 ## Current Projects
 
   * :computer: https://fernandovalerioportfolio.vercel.app/ - Personal Website
