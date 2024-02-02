@@ -1,10 +1,14 @@
-# Hey, I'm _Fernando Valerio_ 👋
-## About me
-I am a systems engineering student kinda bored of just printing "Hello World".
+# 👾 Greetings, Fellow Explorers! I'm _Fernando Valerio_ 👋
 
-As a future systems engineer i would like to apply all the knowledge that I learned throughout my entire college career on funny stuff like my personal website.
+## Unleashing the Geeky Chaos
+<img height="auto" width="100%" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv"/>
 
-[![MY WEBSITE](https://img.shields.io/badge/Website-cade16?style=for-the-badge&logo=Vercel&logoColor=black)](https://fernandovalerioportfolio.vercel.app/)
+In the vast expanse of code and creativity, I'm not just a systems engineering student; I'm a conductor orchestrating a symphony of humor and tech wizardry.
+
+Bored with the cliché "Hello World," I'm on a cosmic quest to infuse the wisdom gained in my college escapades into hilarious exploits. Whether I'm wrangling code monsters or crafting digital doodles, my mission is to turn the binary into a canvas of chaos!
+
+🚀 Let's explore the unknown realms of geekdom together! 💻✨
+
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/f_va06/?hl=es-la)
