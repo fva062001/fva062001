@@ -21,7 +21,7 @@ Far beyond the mundane echoes of "Hello World," I'm on an interstellar quest to 
 ## Current Projects
 
   * :computer: https://fernandovalerioportfolio.vercel.app/ - Personal Website
-  * 🛒 Marocc - Ecommerce Beauty Startup
+  * 👾 https://www.atlas-io.com/ - My Startup Atlas IO
 
 
 ### :chart_with_upwards_trend: My stats
