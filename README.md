@@ -1,5 +1,8 @@
 # 👾 Greetings, Fellow Explorers! I'm _Fernando Valerio_ 👋
 
+<a href=#><img src="contributions.svg"></a>
+
+
 ## Navigating the Cosmic Code
 <img height="auto" width="100%" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv"/>
 
