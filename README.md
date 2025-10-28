@@ -1,16 +1,13 @@
+![fva062001's GitHub Banner](https://raw.githubusercontent.com/fva062001/fva062001/main/banner.png)
 # 👾 Greetings, Fellow Explorers! I'm _Fernando Valerio_ 👋
 
-<a href=#><img src="contributions.svg"></a>
-
-
 ## Navigating the Cosmic Code
-<img height="auto" width="100%" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv"/>
 
 In the boundless expanse of code and creativity, I transcend the role of a mere systems engineering student; I'm a galactic maestro orchestrating a symphony of humor and tech wizardry.
 
-Far beyond the mundane echoes of "Hello World," I'm on an interstellar quest to infuse the cosmic wisdom garnered during my college escapades into side-splitting exploits. Whether corralling code comets or conjuring digital constellations, my mission is to transform the binary tapestry into a canvas of celestial chaos!
+Far beyond the mundane echoes of "Hello World," I'm on an interstellar quest to infuse the cosmic wisdom garnered during my college escapades into side-splitting exploits. Whether corralling code [...]
 
-🚀 Embark with me on this odyssey through the unknown realms of geekdom! Let's navigate the cosmic code together, turning the ordinary into extraordinary in the vast universe of technology. 💻✨
+🚀 Embark with me on this odyssey through the unknown realms of geekdom! Let's navigate the cosmic code together, turning the ordinary into extraordinary in the vast universe of technology. 💻[...]
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/f_va06/?hl=es-la)
@@ -29,7 +26,7 @@ Far beyond the mundane echoes of "Hello World," I'm on an interstellar quest to 
 
 ### :chart_with_upwards_trend: My stats
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=fva062001&show_icons=true&hide_border=true&&count_private=true&theme=radical&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fva062001&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img height=\"165em\" src=\"https://github-readme-stats.vercel.app/api?username=fva062001&show_icons=true&hide_border=true&&count_private=true&theme=radical&include_all_commits=true\" /> [![Top Langs][...]
 
 ### :symbols: Known Languages
 
@@ -37,7 +34,7 @@ Far beyond the mundane echoes of "Hello World," I'm on an interstellar quest to 
 ![HTML5](https://img.shields.io/badge/html5-fff.svg?style=for-the-badge&logo=html5&logoColor=)
 ![CSS](https://img.shields.io/badge/CSS-fff.svg?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/javascript-fff.svg?style=for-the-badge&logo=javascript&logoColor=)
-![Python](https://img.shields.io/badge/python-fff?style=for-the-badge&logo=python&logoColor=)
+![Python](https://img.shields.io/badge/python-fff.svg?style=for-the-badge&logo=python&logoColor=)
 ![Markdown](https://img.shields.io/badge/markdown-fff.svg?style=for-the-badge&logo=markdown&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-fff.svg?style=for-the-badge&logo=typescript&logoColor=)
 ![SQL](https://img.shields.io/badge/SQL-fff.svg?style=for-the-badge&logo=MySQL&logoColor=)
