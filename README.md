@@ -20,8 +20,8 @@ Far beyond the mundane echoes of "Hello World," I'm on an interstellar quest to 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643b4074e2725773748e86be?variant=dark&roadmaps=devops%2Cfrontend)](https://roadmap.sh)
 ## Current Projects
 
-  * :computer: https://fernandovalerioportfolio.vercel.app/ - Personal Website
-  * 👾 https://www.atlas-io.com/ - My Startup Atlas IO
+  * :computer: https://fernandovalerio.me - Personal Website
+  * 👾 https://www.atom.do/ - My Startup Atom Software Company
 
 
 ### :chart_with_upwards_trend: My stats
